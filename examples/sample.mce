@@ -1,0 +1,11 @@
+2 + 3 * 4;
+(2 + 3) * 4;
+radius = 7;
+pi = 3.14159;
+area = pi * radius * radius;
+area;
+x = 10;
+y = 3;
+x / y;
+x % y;
+-x + 5;
